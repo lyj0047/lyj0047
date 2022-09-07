@@ -1,11 +1,11 @@
 <div align=center>
 
 ### 🐣 YuJeong 🐥 
+</div>
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyj0047&layout=compact)](https://github.com/lyj0047/github-readme-stats)
----
 ![YuJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyj0047&show_icons=true&theme=vue)
-</div>
+
 
 <!--
 **lyj0047/lyj0047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
